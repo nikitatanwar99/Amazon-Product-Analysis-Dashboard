@@ -9,16 +9,23 @@ It helps business teams, e-commerce analysts, and product managers identify whic
 **Tech Stack**
 
 The dashboard was built using the following tools and technologies:
+
 📊 Power BI Desktop – Data visualization & story building
+
 📂 Power Query – Data cleaning & transformation
+
 🧠 DAX Measures – KPI calculations (YTD/QTD Sales, Product Sold, Reviews etc.)
+
 📝 Data Modelling – Relationships designed to cross-filter product & review metrics
+
 📁 File Format – .pbix for development and .png for dashboard previews.
 
 **Data Source**
 
 Source: Amazon product sales dataset (CSV/Excel)
+
 Dataset includes information about:
+
 Product categories
 Product Description
 Price (Dollar)
@@ -43,9 +50,13 @@ Shows direct relationship between product demand & customer reviews
 • **Walkthrough of Key Visuals**
 
 Top KPIs (Top Section)
+
 YTD Sales
+
 QTD Sales
+
 YTD Product Sold
+
 YTD Reviews
 
 Sales Trend by Month (Line chart) → shows monthly pattern and seasonal spikes
