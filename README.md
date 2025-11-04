@@ -87,4 +87,5 @@ Gives management a quick view of e-commerce business health
 **Screenshots**
 
 
-![image alt]([image_link_here](https://github.com/nikitatanwar99/Amazon-Product-Analysis-Dashboard/blob/main/snapshot%20of%20the%20dashboard.png))
+![image alt](https://raw.githubusercontent.com/nikitatanwar99/Amazon-Product-Analysis-Dashboard/main/snapshot%20of%20the%20dashboard.png)
+
