@@ -1,4 +1,6 @@
 # Amazon-Product-Analysis-Dashboard
+
+
 A dynamic Power BI dashboard that provides a clear view of Amazon product performance—focused on sales KPIs, top selling categories, and customer review trends.
 
 **Description**
