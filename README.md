@@ -7,8 +7,8 @@ The Amazon Product Sales Dashboard is designed to analyse sales performance and 
 It helps business teams, e-commerce analysts, and product managers identify which products perform best, what selling trends exist, and where improvement opportunities are.
 
 **Tech Stack**
-The dashboard was built using the following tools and technologies:
 
+The dashboard was built using the following tools and technologies:
 📊 Power BI Desktop – Data visualization & story building
 📂 Power Query – Data cleaning & transformation
 🧠 DAX Measures – KPI calculations (YTD/QTD Sales, Product Sold, Reviews etc.)
@@ -16,10 +16,9 @@ The dashboard was built using the following tools and technologies:
 📁 File Format – .pbix for development and .png for dashboard previews.
 
 **Data Source**
+
 Source: Amazon product sales dataset (CSV/Excel)
-
 Dataset includes information about:
-
 Product categories
 Product Description
 Price (Dollar)
@@ -33,7 +32,9 @@ This dataset helps understand buying trends, product demand patterns, and user s
 
 • **Business Problem**
 E-commerce platforms generate huge volumes of product data, but identifying the best-performing products, categories and consumer trends is difficult through raw data.
+
 • **Goal of the Dashboard**
+
 To provide a visual tool that:
 Tracks overall product sales performance
 Highlights top selling categories & SKUs
